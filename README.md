@@ -3,10 +3,10 @@
 Este proyecto corresponde a la evidencia técnica individual para la formación técnica del **SENA (TACA Class)**. Contiene la instalación, configuración inicial y despliegue del entorno local del proyecto `gestor-adso`.
 
 ## 1. Versiones del Entorno Utilizadas
-* **Sistema Operativo:** Windows 10
+* **Sistema Operativo:** Windows 11
 * **Git:** 2.55.0.windows.3
-* **Laravel Framework:** 11.x (o superior)
-* **Gestor de Base de Datos:** MariaDB / MySQL (XAMPP/Laragon)
+* **Laravel Framework:** 12.69.3
+* **Gestor de Base de Datos:** MariaDB / MySQL (XAMPP)
 
 ---
 
